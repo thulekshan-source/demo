@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1777893075557,
+    "name": "dilujan",
+    "email": "dilujan@2005gmail.com",
+    "password": "$2b$10$yXWM0jsk9LhnM3c3tPg/UO4rijBXXrCFe./iMT6FZVPy/MU4uMl5K",
+    "role": "customer"
+  },
+  {
+    "id": 1777893183309,
+    "name": "varshini",
+    "email": "varshini@gmail.com",
+    "password": "$2b$10$EUDvuBsW9NCMYHBohmKrhuMoICahknRHDf.SxmuAYZeH6tDZBuag.",
+    "role": "admin"
+  },
+  {
+    "id": 1777893323631,
+    "name": "thulekshan",
+    "email": "kirupairasa@2003gmail.com",
+    "password": "$2b$10$4G4PxlJQ4z85o3iw6jxZPuvR/Z4rmuKYBcmkd64b3kpKgctqrUYWK",
+    "role": "customer"
+  },
+  {
+    "id": 1777893360881,
+    "name": "thulekshan",
+    "email": "kirupairasathulekshan@2003gmail.com",
+    "password": "$2b$10$yDlaw0YOdeMaIDmubQC26elYNqnZCmymer6BQ4DfTG2dnnvo6mtdm",
+    "role": "customer"
+  },
+  {
+    "id": 1777951734827,
+    "name": "Test User",
+    "email": "test_1777951734525@example.com",
+    "password": "$2b$10$VvqDNNfTMv3khiOvJxo29es.1TiCFreHDHclvZZ5T56j.m75FHffO",
+    "role": "customer",
+    "createdAt": "2026-05-05T03:28:54.827Z"
+  },
+  {
+    "id": 1778060156045,
+    "name": "virat",
+    "email": "virat@gmail.com",
+    "password": "$2b$10$GQ3H1Ay7W4KJT7Qs7CbKNutoawtbdiYEIPzSBNTVRfZkTxsMHyPYi",
+    "role": "customer",
+    "category": "Haircut",
+    "createdAt": "2026-05-06T09:35:56.045Z"
+  },
+  {
+    "id": 1778060517708,
+    "name": "abisheka",
+    "email": "abisheka2003@gmail.com",
+    "password": "$2b$10$LKOclxMEDJ/l8UdbeJ60IOawO.fDLobviqsd8SkzxyDo.vI8ykQcS",
+    "role": "customer",
+    "category": "Haircut",
+    "createdAt": "2026-05-06T09:41:57.708Z"
+  },
+  {
+    "id": 1778061277893,
+    "name": "arvin",
+    "email": "arvin@gmail.com",
+    "password": "$2b$10$J0d93xbEaeg4zf6buvQduOKIz0VowcIqeZoWSzE6VRWKhj7RJShAS",
+    "role": "customer",
+    "category": "Haircut",
+    "createdAt": "2026-05-06T09:54:37.893Z"
+  }
+]

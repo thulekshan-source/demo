@@ -1,0 +1,48 @@
+.App {
+  min-height: 100vh;
+}
+
+.App-header {
+  padding: 4rem 2rem 2rem;
+  text-align: center;
+}
+
+.App-header h1 {
+  font-size: 3.5rem;
+  background: var(--gradient-main);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero-subtitle {
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+.footer {
+  padding: 4rem 2rem;
+  text-align: center;
+  border-top: 1px solid var(--glass-border);
+  color: var(--text-muted);
+  margin-top: 4rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.home-page, .admin-dashboard, .customer-dashboard, .auth-container {
+  animation: fadeIn 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
