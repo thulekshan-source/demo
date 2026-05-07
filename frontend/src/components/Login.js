@@ -21,6 +21,7 @@ const Login = () => {
     script.onload = initGoogleSignIn;
     document.body.appendChild(script);
     return () => { document.body.removeChild(script); };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const initGoogleSignIn = () => {
